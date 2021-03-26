@@ -22,24 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Associate Professor
+    company: CY Tech (EISTI)
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Cergy, France
+    date_start: '2007-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities include:    
+       
+        * Head of Embedded Systems Master (May 2012 – Present)
+        * Head of Computer Science Department (May 2016 – Jul 2019)
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Maître de conférences
+    company: Strasbourg University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Strasbourg, France
+    date_start: '2004-09-01'
+    date_end: '2007-01-31'
+    description: 
+    
+  - title: ATER
+    company: Descartes Paris University
+    company_url: ''
+    location: Paris, France
+    date_start: '2003-09-01'
+    date_end: '2004-08-31'
+    description: 
+    
+  - title: Post-doc Researcher
+    company: École Nationale Supérieure des Mines de Paris
+    company_url: ''
+    location: Paris, France
+    date_start: '2002-11-01'
+    date_end: '2003-08-31'
+    description: 
 ---
